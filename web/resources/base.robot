@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 Library    OperatingSystem
 
 *** Variables ***
-${URL}         https://rocklov-thiago-web.herokuapp.com/
+${URL}         https://rocklov-papito-web.herokuapp.com/
 ${BROWSER}     chrome
 
 *** Keywords ***

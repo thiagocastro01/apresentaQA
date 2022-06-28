@@ -20,5 +20,3 @@ Cenário 05: Tentar logar sem informar email
     Tentar Login Com    ${EMPTY}                  pwd123       Oops. Informe um email válido!
 Cenário 06: Tentar logar sem informar senha
     Tentar Login Com    thiagofelipe@gmail.com    ${EMPTY}     Oops. Informe sua senha secreta!
-
-

@@ -5,4 +5,4 @@ Library        Collections
 Resource       routes/Sessions.robot
 
 *** Variables ***
-${BASE_URL}    https://rocklov-thiago-api.herokuapp.com
+${BASE_URL}    https://rocklov-papito-api.herokuapp.com
